@@ -1,0 +1,30 @@
+{
+    "productos": [
+      {
+        "id": 1023,
+        "nombre": "cafe",
+        "descripcion": "",
+        "cantidad": 2
+      },
+      {
+        "id": 1022,
+        "nombre": "cafe",
+        "descripcion": "",
+        "cantidad": 2
+      }
+    ],
+    "usuarios": [
+      {
+        "id": 2,
+        "username": "bladi",
+        "password": "bladi",
+        "email": "bpiña@duocuc.cl",
+      },
+      {
+        "id": 3,
+        "username": "rodrigo",
+        "password": "rodrigo",
+        "email": "bpiñaaaaa@duocuc.cl",
+      }
+    ]
+  }
